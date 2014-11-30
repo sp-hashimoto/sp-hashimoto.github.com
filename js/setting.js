@@ -20,7 +20,7 @@ OpenSpending.Styles.Cofog = {
   /* chigasaki cofog */
   '1': { icon: 'icons/civilian-action.svg', color: '#138EC0', bcolor: '#935B3B' },//議会費
   '1-1': { icon: 'icons/civilian-action.svg', color: '#138EC0', bcolor: '#935B3B' },
-  '2': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },//総務費
+  '2': { icon: 'icons/government.svg', color: '#138EC0', bcolor: '#0AB971' },//総務費
   '2-1': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
   '2-2': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
   '2-3': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
