@@ -37,8 +37,8 @@ OpenSpending.Styles.Cofog = {
   '4-2': { icon: 'icons/health.svg', color: '#138EC0', bcolor: '#D33673' },
   '5': { icon: 'icons/human-resources.svg', color: '#138EC0', bcolor: '#2A3A03' },//労働費
   '5-1': { icon: 'icons/human-resources.svg', color: '#138EC0', bcolor: '#2A3A03' },
-  '6': { icon: 'icons/forest.svg', color: '#138EC0', bcolor: '#EC2406' },//農林水産費
-  '6-1': { icon: 'icons/forest.svg', color: '#138EC0', bcolor: '#EC2406' },
+  '6': { icon: 'icons/c_nougyou.svg', color: '#138EC0', bcolor: '#EC2406' },//農林水産費
+  '6-1': { icon: 'icons/c_nougyou.svg', color: '#138EC0', bcolor: '#EC2406' },
   '6-2': { icon: 'icons/forest.svg', color: '#138EC0', bcolor: '#EC2406' },
   '7': { icon: 'icons/traffic-watersup.svg', color: '#138EC0', bcolor: '#938626' },//商工費
   '7-1': { icon: 'icons/traffic-watersup.svg', color: '#138EC0', bcolor: '#938626' },
