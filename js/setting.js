@@ -27,6 +27,8 @@ OpenSpending.Styles.Cofog = {
   '2-4': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
   '2-5': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
   '2-6': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
+  '2-7': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
+  '2-8': { icon: 'icons/publicaffairs.svg', color: '#138EC0', bcolor: '#0AB971' },
   '3': { icon: 'icons/family.svg', color: '#138EC0', bcolor: '#4E6D00' },//民生費
   '3-1': { icon: 'icons/family.svg', color: '#138EC0', bcolor: '#4E6D00' },
   '3-2': { icon: 'icons/family.svg', color: '#138EC0', bcolor: '#4E6D00' },
@@ -35,6 +37,8 @@ OpenSpending.Styles.Cofog = {
   '4': { icon: 'icons/health.svg', color: '#138EC0', bcolor: '#D33673' },//衛生費
   '4-1': { icon: 'icons/health.svg', color: '#138EC0', bcolor: '#D33673' },
   '4-2': { icon: 'icons/health.svg', color: '#138EC0', bcolor: '#D33673' },
+  '4-3': { icon: 'icons/health.svg', color: '#138EC0', bcolor: '#D33673' },
+  '4-4': { icon: 'icons/health.svg', color: '#138EC0', bcolor: '#D33673' },
   '5': { icon: 'icons/human-resources.svg', color: '#138EC0', bcolor: '#2A3A03' },//労働費
   '5-1': { icon: 'icons/human-resources.svg', color: '#138EC0', bcolor: '#2A3A03' },
   '6': { icon: 'icons/forest.svg', color: '#138EC0', bcolor: '#EC2406' },//農林水産費
@@ -56,14 +60,13 @@ OpenSpending.Styles.Cofog = {
   '10-3': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
   '10-4': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
   '10-5': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
+  '10-6': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
   '11': { icon: 'icons/economic-aid.svg', color: '#138EC0', bcolor: '#790586' },//災害復旧費
   '11-1': { icon: 'icons/economic-aid.svg', color: '#138EC0', bcolor: '#790586' },
+  '11-2': { icon: 'icons/economic-aid.svg', color: '#138EC0', bcolor: '#790586' },
   '12': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#790586' },//公債費
   '12-1': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#790586' },
   '13': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' },//予備費
   '13-1': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' }
-  
+  '13-2': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' }  
 };
-
-
-
