@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <circle fill="#B2B2B2" cx="50" cy="50" r="50"/>
-<path id="polyline25" fill="#231815" d="M40.927,22.726l7.575,5.452L26.835,43.859H11.528"/>
-<path id="polyline27" fill="#231815" d="M88.733,43.859H74.655L42.864,21.312l7.211-5.19"/>
-<path id="polyline29" fill="#231815" d="M50.075,86L9.853,57.165h14.859l33.204,23.191"/>
-<path id="polyline31" fill="#231815" d="M98.622,51.061l-6.983-4.951L8.71,45.894l-7.182,5.167l5.762,4.146l70.856-0.094
-	L52.492,73.512l7.646,5.422"/>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M49.291,22.726c0,5.436,0,10.872,0,16.307
+		c-8.403,0.103-14.033,10.497-9.251,18.032c-5.851-2.564-12.005-6.184-17.875-9.251C24.702,32.947,33.288,24.128,49.291,22.726z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M78.141,47.971c-6.08,3.065-11.926,6.366-18.031,9.408
+		c5.027-7.843-0.754-18.152-9.252-18.346c0.105-5.383-0.209-11.185,0.156-16.307C66.997,24.201,75.499,33.158,78.141,47.971z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M48.036,79.174c-12.419-0.698-18.929-9.323-25.401-16.935
+		c-6.609-7.772-13.368-15.258-19.13-22.579c10.26,5.668,21.503,11.33,32.301,17.091c3.504,1.869,7.218,4.468,10.819,5.487
+		c5.28,1.495,9.053-0.79,12.702-2.665c12.402-6.378,24.904-13.384,37.318-19.757c-6.297,7.535-12.807,15.176-19.287,22.736
+		c-6.313,7.362-12.609,15.74-25.246,16.62C50.755,79.174,49.395,79.174,48.036,79.174z"/>
+</g>
 </svg>
