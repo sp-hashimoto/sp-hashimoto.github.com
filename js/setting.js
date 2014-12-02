@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'hashimoto_2014_budget_5';
+OpenSpending.identifier = 'hashimoto_2014_budget_6';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -60,9 +60,9 @@ OpenSpending.Styles.Cofog = {
   '11-1': { icon: 'icons/economic-aid.svg', color: '#138EC0', bcolor: '#790586' },
   '12': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#790586' },//公債費
   '12-1': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#790586' },
+  '12-2': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#790586' },
   '13': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' },//予備費
   '13-1': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' }
-  
 };
 
 
