@@ -1,12 +1,9 @@
-# 俺のゼニはどこ行った for 茅ヶ崎
+# 俺のゼニはどこ行った for 橋本
 
-wheredoesmymoney.orgの茅ヶ崎バージョンです．
+wheredoesmymoney.orgのは橋本バージョンです．
 横浜バージョンに啓発されて作成しました。
 http://chigasaki.spending.jp/ で稼働しているサイトのソースコードです。
 これからもデータの更新や改善を続けていこうと思いますので、ご意見、ご要望、ご指摘をお願いします。
-
-Team for 茅ヶ崎
-七島　偉之（Hideyuki Nanashima）, @jollyjoester
 
 
 ###以下、fork元の横浜バージョンに関する記載になります。
