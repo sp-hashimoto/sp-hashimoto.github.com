@@ -61,6 +61,7 @@ OpenSpending.Styles.Cofog = {
   '10-4': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
   '10-5': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
   '10-6': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
+  '10-7': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#790586' },
   '11': { icon: 'icons/economic-aid.svg', color: '#138EC0', bcolor: '#790586' },//土地開発基金費
   '11-1': { icon: 'icons/economic-aid.svg', color: '#138EC0', bcolor: '#790586' },
   '12': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#790586' },//公債費
