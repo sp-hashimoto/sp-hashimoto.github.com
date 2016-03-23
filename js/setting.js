@@ -10,8 +10,8 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'hashimoto_2014_budget_8';
-OpenSpending.year = '2014';
+OpenSpending.identifier = 'hashimoto_2015_budget_9';
+OpenSpending.year = '2015';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
